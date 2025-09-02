@@ -2,6 +2,8 @@
     max-width: 400px;
     margin: 10vh auto 0 auto;
     box-shadow: 0 0 43px 17px rgba(0,0,0,0.1);
+    background-color: rgb(40, 20, 64);
+    color: #ffffff;
 }
 #display{
     text-align: right;
@@ -28,7 +30,7 @@
     cursor: pointer;
 }
 #equal{
-    background-color: #f0ad4e;
+    background-color: #d78006;
     color: white;
 }
 .button:hover{
